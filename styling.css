@@ -1,0 +1,78 @@
+body {background: url("background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.sfondo {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  border-radius: 10px;
+  padding: 70px;
+  background-size: contain;
+  margin: 90px;
+
+}
+
+span {
+  color: rgba(54, 252, 0, 0.9);
+  position: inherit;
+  width: 150px;
+}
+
+nav {
+  background-color: rgba(54, 252, 0, 0.9);
+  text-align: center;
+  line-height: 40px;
+  list-style-position: inherit;
+}
+
+section{
+  text-align: left;
+  color: white;
+  display: grid;
+
+}
+
+#myProgress1 {
+  width: 100%;
+  background-color: none;
+}
+
+#myBar1 {
+  width: 40%;
+  height: 18px;
+  background-color: rgba(240, 180, 50, 0.9);
+  border-radius: 3px;
+
+}
+
+#myProgress2 {
+  width: 100%;
+  background-color: none;
+}
+
+#myBar2 {
+  width: 70%;
+  height: 18px;
+  background-color: rgba(54, 252, 0, 0.9);
+  border-radius: 3px;
+
+}
+
+#myProgress3 {
+  width: 100%;
+  background-color: none;
+}
+
+#myBar3 {
+  width: 20%;
+  height: 18px;
+  background-color: rgba(200, 40, 0, 0.9);
+  border-radius: 3px;
+
+}
+
+.Monopatino{
+display: inline-block;
+
+}
